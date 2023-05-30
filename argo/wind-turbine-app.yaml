@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: k8s
-    repoURL: https://github.com/kdubois/quinoa-wind-turbine-manifests
+    repoURL: https://github.com/kevbrain/quinoa-wind-turbine-manifests
     targetRevision: main
   syncPolicy:
     automated:
